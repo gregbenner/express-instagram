@@ -1,0 +1,17 @@
+{
+  "name": "express-instagram",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "superagent": "0.14.6",
+    "consolidate": "0.9.1",
+    "handlebars": "1.0.12",
+    "jade": "*"
+  },
+  "repository": "",
+  "author": "Greg Benner"
+}
